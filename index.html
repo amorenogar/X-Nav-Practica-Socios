@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Socios</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<link rel="stylesheet" type="text/css" href="socios.css"/>
+		<link rel="stylesheet" type="text/css" href="jquery-ui/jquery-ui.min.css">
+
+		<script type="text/javascript" src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
+		<script type="text/javascript" src="jquery-ui/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="socios.js"></script>
+	</head>
+	<body>
+		<h1>Socios</h1>
+		<h2>What's new?</h2>
+		<div id="tabs">
+			<ul>
+				<li><a href="#Mensajes-tab"><span>Mensajes</span></a></li>
+   				<li><a href="#Mis-mensajes-tab"><span>Mis mensajes</span></a></li>
+			</ul>
+
+			<div class="posts" id="Mensajes-tab">
+				<span id="newmsgs">Mensajes sin leer</span>
+				<div class="accordion" id="Mensajes"></div>
+			</div>
+
+			<div class="posts" id="Mis-mensajes-tab">
+				<div class="accordion" id="Mis-mensajes"></div>
+  			</div>
+		</div>
+	</body>
+</html>

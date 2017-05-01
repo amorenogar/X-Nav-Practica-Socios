@@ -1,0 +1,108 @@
+html {
+	background-size: cover;
+	background-image: url(images/background.jpg);
+	font-family: 'Helvetica Neue','Open Sans', sans-serif;
+}
+
+* { 
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box;
+}
+
+:focus, :active {
+  outline: 0;
+}
+
+.posts {
+	background-color: rgba(255,255,255,0.5);
+    color: black;
+    text-align: right;
+}
+
+#tabs {
+	background-color: rgba(255,255,255,0);
+	text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+  	text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+  	border-right: 1px solid rgba(0, 0, 0, .2);
+  	border-left: 1px solid rgba(0, 0, 0, .2);
+  	border-bottom: 1px solid rgba(0, 0, 0, .2);
+  	border-top: 1px solid rgba(250, 250, 250, .2);
+}
+
+#tabs .ui-tabs-nav {
+	background-color: rgba(255,255,255,0);
+	text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+  	text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+  	border-right: 1px solid rgba(0, 0, 0, .2);
+  	border-left: 1px solid rgba(0, 0, 0, .2);
+  	border-bottom: 1px solid rgba(0, 0, 0, .2);
+  	border-top: 1px solid rgba(250, 250, 250, .2);
+}
+
+#tabs .ui-tabs-tab {
+	background-color: rgba(100, 30, 22,0.6);
+	text-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+  	text-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+  	border-right: 2px solid rgba(0, 0, 0, .2);
+  	border-left: 2px solid rgba(0, 0, 0, .2);
+  	border-bottom: 2px solid rgba(0, 0, 0, .2);
+  	border-top: 2px solid rgba(250, 250, 250, .2);
+}
+
+h1 { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 210px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+
+h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 500; line-height: 32px; margin: 0 0 72px; text-align: center; }
+
+h3 , #newmsgs, span { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 18px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }
+
+p { color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }
+
+#newmsgs {
+	color: #111;
+	font-size: 20px;
+}
+
+.foto {
+	width: 90px;
+}
+
+.accordion {
+  width: 700px;
+  margin: 50px auto;
+}
+
+.accordion .ui-accordion-header {
+	background-color: rgb(100, 30, 22);
+	text-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+  	text-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+  	border-right: 2px solid rgba(0, 0, 0, .2);
+  	border-left: 2px solid rgba(0, 0, 0, .2);
+  	border-bottom: 2px solid rgba(0, 0, 0, .2);
+  	border-top: 2px solid rgba(250, 250, 250, .2);
+}
+
+.accordion .ui-accordion-content {
+  width: 100%;
+  background-color: rgba(100, 30, 22,0.6);
+  color: #FDFEFE;
+  font-size: 12pt;
+  line-height: 16pt;
+  text-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+  text-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+  border-right: 2px solid rgba(0, 0, 0, .2);
+  border-left: 2px solid rgba(0, 0, 0, .2);
+  border-bottom: 2px solid rgba(0, 0, 0, .2);
+  border-top: 2px solid rgba(250, 250, 250, .2);
+}
+
+
+
+
+
+
+
+
+
+

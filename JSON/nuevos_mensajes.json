@@ -1,0 +1,12 @@
+{
+	"Mensajes":[{
+			"usuario":"Mario",
+			"foto":"images/mario.jpg",
+			"mensaje":"Si!! Voy a buscarla!!"
+			},
+		{
+			"usuario":"Luigi",
+			"foto":"images/luigi.jpg",
+			"mensaje":"Vaya! Cuenta conmigo!"
+			}]
+}

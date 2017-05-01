@@ -1,0 +1,17 @@
+{
+	"Mensajes":[{
+			"usuario":"Yo",
+			"foto":"images/yo.jpg",
+			"mensaje":"Hola a todos!!!"
+			},
+		{
+			"usuario":"Yo",
+			"foto":"images/yo.jpg",
+			"mensaje":"Vaya! Lo siento Luigi..."
+			},
+		{
+			"usuario":"Yo",
+			"foto":"images/yo.jpg",
+			"mensaje":"Mario!! Has leido eso ultimo??"
+			}]
+}

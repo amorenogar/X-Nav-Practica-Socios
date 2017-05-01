@@ -1,0 +1,37 @@
+{
+	"Mensajes":[{
+			"usuario":"Mario",
+			"foto":"images/mario.jpg",
+			"mensaje":"No tengo mucho que hacer esta mañana...."
+			},
+		{
+			"usuario":"Yo",
+			"foto":"images/yo.jpg",
+			"mensaje":"Hola a todos!!!"
+			},
+		{
+			"usuario":"Luigi",
+			"foto":"images/luigi.jpg",
+			"mensaje":"Me he quedao tirado...Ese maldito caparazón ha roto mi coche!"
+			},
+		{
+			"usuario":"Yo",
+			"foto":"images/yo.jpg",
+			"mensaje":"Vaya! Lo siento Luigi..."
+			},
+		{
+			"usuario":"Toad",
+			"foto":"images/toad.png",
+			"mensaje":"Luigi, paso a recojerte!!!"
+			},
+		{
+			"usuario":"Bowser",
+			"foto":"images/bowser.png",
+			"mensaje":"JAJAJAJA TENGO A LA PRINCESA!!!"
+			},
+		{
+			"usuario":"Yo",
+			"foto":"images/yo.jpg",
+			"mensaje":"Mario!! Has leido eso ultimo??"
+			}]
+}
